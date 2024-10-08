@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NERO_VK_SUBSCRIBERS", "NERO_VK_SUBSCRIBERS\NERO_VK_SUBSCRIBERS.pyproj", "{31FDBEA1-B96E-4E5C-B1FF-98A2839C057A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FDBEA1-B96E-4E5C-B1FF-98A2839C057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FDBEA1-B96E-4E5C-B1FF-98A2839C057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6EE3F8F-058F-416C-86F3-C917E0DE2B1F}
+	EndGlobalSection
+EndGlobal
